@@ -1,4 +1,8 @@
-﻿using System;
+﻿/**
+ * Raynaud Paul
+ * 22/10/2021
+ */*
+using System;
 namespace Exercice_22_
 {
     class Program
